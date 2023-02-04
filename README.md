@@ -27,3 +27,5 @@
 <a> <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&style=for-the-badge"></a>
 <a> <img alt="Java" src="https://img.shields.io/badge/-Java-FF7800?&style=for-the-badge"></a>
 <a> <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?logo=Android&logoColor=white&style=for-the-badge"></a>
+<a> <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-F80000?logo=Oracle&logoColor=white&style=for-the-badge"></a>
+<a> <img alt="" src="https://img.shields.io/badge/-.NET-512BD4?logo=.NET&logoColor=white&style=for-the-badge"></a>
